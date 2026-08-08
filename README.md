@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
