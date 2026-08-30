@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jaidalikhan882-lgtm/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
